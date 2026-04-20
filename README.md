@@ -34,3 +34,5 @@ Models were trained over 80,000 iterations.
 The **Double DQN** emerged as the practically superior approach. While the A2C architecture achieved a comparable performance ceiling, the DQN avoids the developmental complexity of balancing policy gradient updates, value predictions, and entropy bonuses required by the dual-headed A2C model. 
 
 Surviving the late game remains an extremely difficult spatial challenge for both architectures, as the snake's growing body severely clutters the board and punishes spatial miscalculations.
+
+For more details, consult the pdf file in the repository.
