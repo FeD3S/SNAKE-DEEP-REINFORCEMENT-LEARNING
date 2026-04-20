@@ -1,4 +1,4 @@
-# 🐍 Deep RL Snake: Navigating Fully and Partially Observable Environments
+# Deep RL Snake: Navigating Fully and Partially Observable Environments
 
 An advanced Reinforcement Learning project that trains AI agents to master the classic game of Snake. This repository explores the performance differences between various learning architectures and benchmark policies, specifically focusing on how agents adapt to fully observable versus partially observable environments.
 
